@@ -3,4 +3,5 @@ return {
   { "nvim-neo-tree/neo-tree", enabled = false },
   { "rcarriga/nvim-notify", enabled = false },
   { "akinsho/toggleterm.nvim", enabled = false },
+  { "AstroNvim/astrotheme", enabled = false },
 }
